@@ -1,0 +1,6 @@
+magic_irct="IRCT"
+sec_strings="\x10"
+sec_stations="\x20"
+sec_trains="\x30"
+sec_end="\xff"
+version3="\x03\x00"

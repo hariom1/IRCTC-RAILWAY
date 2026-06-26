@@ -1,0 +1,6 @@
+language: c++
+fuzz_targets:
+  - irct_fuzzer
+  - builder_fuzzer
+sanitizers:
+  - address
